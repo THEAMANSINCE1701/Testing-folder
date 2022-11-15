@@ -1,0 +1,13 @@
+Date,City,temp,windspeed,even
+01-01-18,New York,10,6,Rain
+02-01-18,New York,12,7,Sun
+03-01-18,New York,15,12,Snow
+04-01-18,New York,13,7,Sun
+01-01-18,Gwalior,41,5,Rain
+02-01-18,Gwalior,44,12,Snow
+03-01-18,Gwalior,39,5,Sun
+04-01-18,Gwalior,40,20,Sun
+01-01-18,Delhi,42,13,Sun
+02-01-18,Delhi,43,6,Sun
+03-01-18,Delhi,44,5,Rain
+04-01-18,Delhi,42,4,Sun
